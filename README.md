@@ -122,7 +122,7 @@ ruby ruby_enum_example.rb
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Sound feedback]:**
+- [ ] **More methods:**
   Additional methods from Ruby's Enumerable module in the MyEnumerable module. We will consider adding the map, count, or reduce methods, which are commonly used and offer valuable functionality to manipulate and process collections.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
